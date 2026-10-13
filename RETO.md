@@ -1,6 +1,6 @@
 # 🚀 Sideproject — Mini framework de ETL
 
-**Repositorio:** `sideproject-mini-framework-etl` · **Tipo:** framework + ETL de ejemplo · **Tiempo:** 8–10 h · **Después de:** lecciones 1 a 3 de esta carpeta
+**Repositorio:** `sideproject-mini-framework-etl` · **Tipo:** framework + ETL de ejemplo · **Tiempo:** 8–10 h · **Después de:** lecciones 1 a 3 de esta sección
 
 > Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
@@ -33,7 +33,7 @@ Ya escribiste varios ETL y todos repiten lo mismo: leer, validar, transformar, c
 **Hito 5 — Seguro por defecto.** El framework aporta cuarentena con umbral y carga idempotente; el pipeline solo declara su clave.
 *Comprueba:* relanzar un pipeline no duplica; una fila mala va a cuarentena con su motivo.
 
-**Hito 6 — Úsalo.** Reescribe con tu framework el ETL de `02_retos_practicos/reto_11` y uno de tus sideprojects anteriores.
+**Hito 6 — Úsalo.** Reescribe con tu framework el ETL de `04_retos_de_python/reto_11` y uno de tus sideprojects anteriores.
 *Comprueba:* cuenta las líneas antes y después.
 
 ## Preguntas para defenderlo

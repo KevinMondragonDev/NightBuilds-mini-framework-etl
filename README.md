@@ -2,7 +2,7 @@
 
 > Mini framework de ETL con fuentes y destinos intercambiables, construido con patrones de diseño.
 
-**Estado:** 🚧 sin empezar · **Tipo:** Framework + ETL de ejemplo · **Módulo del programa:** 06/05 · Patrones de diseño
+**Estado:** 🚧 sin empezar · **Tipo:** Framework + ETL de ejemplo · **Módulo del programa:** 05/05 · Patrones de diseño
 
 ## La problemática
 
